@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(156, 238, 89);
+    color: black;
+}
+table {
+    width: 980px;
+    background-color: rgb(80, 144, 80);
+    text-align: center;
+}
