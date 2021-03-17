@@ -17,6 +17,14 @@ height: 40pt;
 background-color: black;
 color: white;
 }
-table table p::first-line {
-    font-weight: bold;
+
+
+img {
+    float: right;
+    margin-left: 5pt;
+    margin-right: 5pt;
+}
+
+li p::first-letter{
+    font-weight: bolder;
 }
