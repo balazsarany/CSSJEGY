@@ -7,3 +7,8 @@ table {
     background-color: rgb(80, 144, 80);
     text-align: center;
 }
+table table {
+    width:940px;
+    background-color: white;
+    text-align: center;
+}
